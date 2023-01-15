@@ -1,4 +1,6 @@
 ## App Trader Project
+This is a repository for an analysis of mobile app data, used to develop recommendations as to price range, genre, content rating, etc. for apps to be targeted by the fictional company, "App Trader". This project was completed during my Data Analytics apprenticeship at [Nashville Software School](https://nashvillesoftwareschool.com/). The technology and skills employed include: SQL (CTEs, Joins, Window Functions), PostgreSQL, pgAdmin, and Microsoft Excel (LOOKUPs).
+
 - This project was a team effort with contributions from Adam Crank and Morgan Hines.
 - All analyses are done in PostgreSQL, however query results are exported to create charts in Excel for the report.
 
